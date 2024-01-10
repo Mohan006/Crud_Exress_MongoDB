@@ -3,6 +3,6 @@ In this projects I covered most of the concepts in node like mvc structure , som
 Maintained good project structure 
 
 Next Goals :
-          I will add pagination and some advance filter stuff
+          I will add pagination and some advance filter stuff,
           Wanna add users and some other things to this project
           authentication , jwt
